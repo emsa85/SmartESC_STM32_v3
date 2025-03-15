@@ -28,7 +28,7 @@
 
 // calibration factors for voltage and current
 #define CAL_BAT_V 14 	// ADC counts * CAL_BAT_V = Battery voltage in mV
-#define CAL_I 38		// ADC counts * CAL_I = current in mA
+#define CAL_I 43		// ADC counts * CAL_I = current in mA
 
 // gains for PI controls
 #define P_FACTOR_I_Q 100
